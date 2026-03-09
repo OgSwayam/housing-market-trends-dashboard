@@ -1,0 +1,5 @@
+{
+  "name": "Housing Market Trends Dashboard",
+  "description": "Interactive dashboard for analyzing housing market trends, sale prices, and features.",
+  "requestFramePermissions": []
+}
